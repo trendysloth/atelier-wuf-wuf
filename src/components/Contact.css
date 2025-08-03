@@ -1,0 +1,67 @@
+.contact {
+  min-height: 100vh;
+}
+
+.contact-hero {
+  background: white;
+  padding: 2rem 2rem;
+  text-align: center;
+  color: black;
+  border-bottom: 1px solid #e5e5e5;
+}
+
+.contact-section {
+  background: white;
+  padding: 4rem 2rem;
+  text-align: center;
+  color: black;
+}
+
+.about-title {
+  font-size: 2.5rem;
+  font-weight: 400;
+  margin-bottom: 1.5rem;
+  letter-spacing: 0.05em;
+  color: black;
+}
+
+.contact-title {
+  font-size: 2.5rem;
+  font-weight: 400;
+  margin-bottom: 2rem;
+  letter-spacing: 0.05em;
+  color: black;
+}
+
+.contact-email {
+  font-size: 1.2rem;
+  color: #666;
+  margin: 0;
+  letter-spacing: 0.05em;
+}
+
+.contact-description {
+  font-size: 1rem;
+  color: #666;
+  margin: 2rem 0 0 0;
+  letter-spacing: 0.05em;
+  line-height: 1.6;
+  max-width: 600px;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.container {
+  max-width: 1200px;
+  margin: 0 auto;
+}
+
+@media (max-width: 768px) {
+  .contact-hero {
+    padding: 4rem 1rem;
+  }
+  
+  .contact-title {
+    font-size: 2.5rem;
+  }
+} 

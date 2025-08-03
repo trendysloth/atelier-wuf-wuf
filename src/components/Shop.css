@@ -1,0 +1,31 @@
+.shop {
+  min-height: 100vh;
+}
+
+.shop-hero {
+  background: white;
+  padding: 8rem 2rem;
+  text-align: center;
+  color: black;
+  border-bottom: 1px solid #e5e5e5;
+}
+
+.shop-title {
+  font-size: 2.5rem;
+  font-weight: 400;
+  margin-bottom: 2rem;
+  letter-spacing: 0.05em;
+}
+
+.shop-subtitle {
+  font-size: 1rem;
+  color: #666;
+  max-width: 600px;
+  margin: 0 auto;
+  line-height: 1.6;
+}
+
+.container {
+  max-width: 1200px;
+  margin: 0 auto;
+} 
