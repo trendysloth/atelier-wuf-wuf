@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/atelier-wuf-wuf/static/css/main.94e07592.css",
+    "main.js": "/atelier-wuf-wuf/static/js/main.82b4067d.js",
+    "static/js/453.f9488f5d.chunk.js": "/atelier-wuf-wuf/static/js/453.f9488f5d.chunk.js",
+    "index.html": "/atelier-wuf-wuf/index.html",
+    "main.94e07592.css.map": "/atelier-wuf-wuf/static/css/main.94e07592.css.map",
+    "main.82b4067d.js.map": "/atelier-wuf-wuf/static/js/main.82b4067d.js.map",
+    "453.f9488f5d.chunk.js.map": "/atelier-wuf-wuf/static/js/453.f9488f5d.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.94e07592.css",
+    "static/js/main.82b4067d.js"
+  ]
+}
